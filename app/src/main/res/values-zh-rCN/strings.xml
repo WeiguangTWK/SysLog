@@ -22,7 +22,7 @@
         <a href="http://github.com/Tortel/Syslog">GitHub</a>
     </p>
     <p>
-        <a href="https://github.com/Tortel/SysLog/blob/master/Privacy.md">Privacy Policy</a>
+        <a href="https://github.com/Tortel/SysLog/blob/master/Privacy.md">隐私政策</a>
     </p>
 </body>
 </html>]]>\n    "</string>
@@ -94,7 +94,7 @@
     <string name="done">完成！</string>
     <string name="checking_root">检查Root权限&#8230;</string>
     <string name="close">关闭</string>
-    <string name="collected_logs">捕获的日志</string>
+    <string name="collected_logs">日志已抓好</string>
     <string name="space_freed">释放了%.1f MB</string>
     <string name="noroot">警告: 无Root权限. 此时捕获的日志会不全或缺失\n       若无Root权限，则请参阅 <a href="https://github.com/Tortel/SysLog/blob/master/Readme.md#enabling-log-access-via-adb-no-root-required">手动授予读取部分日志权限</a></string>
     <string name="error">保存出错. 请检查你的SD卡</string>
